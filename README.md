@@ -28,3 +28,8 @@ Format: ![Alt Text](url)
 
 http://github.com - automatic!
 [GitHub](http://github.com)
+
+As Grace Hopper said:
+> I’ve always been more interested
+> in the future than in the past.
+
