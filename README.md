@@ -34,3 +34,7 @@ As Grace Hopper said:
 > in the future than in the past.
 
 \*literal asterisks\*
+
+function test() {
+ console.log("look ma’, no spaces");
+}
